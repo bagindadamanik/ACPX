@@ -47,6 +47,9 @@ class Menu extends Component
                 'label' => 'Ticket'
             ],
             [
+                'label' => 'Ticket2'
+            ],
+            [
                 'label' => 'Users'
             ],
             [
