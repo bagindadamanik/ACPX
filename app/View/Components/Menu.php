@@ -38,6 +38,9 @@ class Menu extends Component
                 'label' => 'Dashboard'
             ],
             [
+                'label' => 'Dashboard2'
+            ],
+            [
                 'label' => 'Movies'
             ],
             [
